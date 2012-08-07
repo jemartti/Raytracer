@@ -1,0 +1,130 @@
+sum is: /usr/bin/sum
+
+
+2012-03-09 02:12 Checksum for A4 for jemartti on gl15.student.cs  Page 1
+
+A4:
+total 652
+25483469 drwxrwx--- 8 jemartti cs488         4096 2012-03-09 02:12 ../
+30587720 drwxrwx--- 2 jemartti cs488         4096 2012-03-09 02:12 data/
+24375644 -rw-r--r-- 1 jemartti jemarttinen  61016 2012-03-09 01:54 screenshot01.png
+45823408 drwxrwx--- 4 jemartti cs488         4096 2012-03-09 01:53 ./
+45823412 -rw-r-x--- 1 jemartti jemarttinen    722 2012-03-09 01:50 README*
+45823410 -rw-r----- 1 jemartti jemarttinen    756 2012-03-09 01:38 README~
+45823409 drwxrwx--- 2 jemartti cs488         4096 2012-03-09 01:25 src/
+45823411 -rwxr-xr-x 1 jemartti jemarttinen 572015 2012-03-09 01:17 rt*
+
+A4/data:
+total 372
+30587720 drwxrwx--- 2 jemartti cs488         4096 2012-03-09 02:12 ./
+52009868 -rw-r--r-- 1 jemartti jemarttinen  22308 2012-03-09 02:09 sample.png
+52009867 -rw-r--r-- 1 jemartti jemarttinen    864 2012-03-09 02:08 sample.lua
+45823408 drwxrwx--- 4 jemartti cs488         4096 2012-03-09 01:53 ../
+52009865 -rw-r--r-- 1 jemartti jemarttinen  20913 2012-03-09 01:52 nonhier.png
+52009866 -rw-r--r-- 1 jemartti jemarttinen  14405 2012-03-09 01:51 simple-cows.png
+30587735 -rw-r-x--- 1 jemartti cs488         2845 2012-01-08 20:36 macho-cows.lua*
+30587734 -rw-r-x--- 1 jemartti cs488          755 2012-01-08 20:36 icosa.lua*
+30587733 -rw-r-x--- 1 jemartti cs488         1011 2012-01-08 20:36 cylinder.lua*
+30587732 -rw-r-x--- 1 jemartti cs488          997 2012-01-08 20:36 simple.lua*
+30587731 -rw-r-x--- 1 jemartti cs488         2857 2012-01-08 20:36 hier.lua*
+30587730 -rw-r-x--- 1 jemartti cs488         1268 2012-01-08 20:36 readobj.lua*
+30587729 -rw-r-x--- 1 jemartti cs488         4322 2012-01-08 20:36 buckyball.lua*
+30587728 -rw-r-x--- 1 jemartti cs488         1566 2012-01-08 20:36 instance.lua*
+30587727 -rw-r-x--- 1 jemartti cs488         1470 2012-01-08 20:36 nonhier2.lua*
+30587726 -rw-r-x--- 1 jemartti cs488         8859 2012-01-08 20:36 smstdodeca.lua*
+30587725 -rw-r-x--- 1 jemartti cs488         1281 2012-01-08 20:36 nonhier.lua*
+30587724 -rw-r-x--- 1 jemartti cs488       180010 2012-01-08 20:36 cow.obj*
+30587723 -rw-r-x--- 1 jemartti cs488        38328 2012-01-08 20:36 mickey.lua*
+30587722 -rw-r-x--- 1 jemartti cs488         1673 2012-01-08 20:36 dodeca.lua*
+30587721 -rw-r-x--- 1 jemartti cs488         2907 2012-01-08 20:36 simple-cows.lua*
+
+A4/src:
+total 192
+45823408 drwxrwx--- 4 jemartti cs488        4096 2012-03-09 01:53 ../
+45823409 drwxrwx--- 2 jemartti cs488        4096 2012-03-09 01:25 ./
+29087559 -rw-r----- 1 jemartti jemarttinen  3036 2012-03-09 01:19 mesh.cpp
+29087560 -rw-r----- 1 jemartti jemarttinen   633 2012-03-09 01:01 mesh.hpp
+17089890 -rw-r----- 1 jemartti jemarttinen  5215 2012-03-09 00:59 scene.cpp
+13754857 -rw-r----- 1 jemartti jemarttinen  4268 2012-03-09 00:50 a4.cpp
+13754858 -rw-r----- 1 jemartti jemarttinen   706 2012-03-09 00:43 a4.hpp
+17089886 -rw-r----- 1 jemartti jemarttinen  4617 2012-03-09 00:42 primitive.cpp
+17089887 -rw-r----- 1 jemartti jemarttinen  1305 2012-03-08 23:50 primitive.hpp
+17089889 -rw-r--r-- 1 jemartti jemarttinen  1212 2012-03-08 21:26 ray.hpp
+17089888 -rw-r--r-- 1 jemartti jemarttinen  1179 2012-03-08 21:21 ray.cpp
+13754861 -rw-r----- 1 jemartti jemarttinen 10119 2012-03-08 20:56 algebra.hpp
+17089891 -rw-r----- 1 jemartti jemarttinen  2190 2012-03-08 20:50 scene.hpp
+29087557 -rw-r----- 1 jemartti jemarttinen   506 2012-03-06 22:35 material.cpp
+29087558 -rw-r----- 1 jemartti jemarttinen   659 2012-03-06 22:35 material.hpp
+43788715 -rw-r----- 1 jemartti jemarttinen   138 2012-02-23 15:40 scene_lua.hpp
+13754867 -rw-r----- 1 jemartti jemarttinen   273 2012-02-23 15:34 main.cpp
+13754864 -rw-r----- 1 jemartti jemarttinen   427 2012-02-23 15:34 light.cpp
+13754865 -rw-r----- 1 jemartti jemarttinen   285 2012-02-23 15:33 light.hpp
+
+
+2012-03-09 02:12 Checksum for A4 for jemartti on gl15.student.cs  Page 2
+
+43788714 -rw-r----- 1 jemartti jemarttinen 15816 2012-02-14 21:10 scene_lua.cpp
+13754860 -rw-r----- 1 jemartti jemarttinen  3308 2012-01-31 20:27 algebra.cpp
+29087556 -rw-r----- 1 jemartti jemarttinen   652 2012-01-31 20:27 Makefile
+13754866 -rw-r----- 1 jemartti jemarttinen   170 2012-01-31 20:27 lua488.hpp
+13754863 -rw-r----- 1 jemartti jemarttinen  1787 2012-01-31 20:27 image.hpp
+13754862 -rw-r----- 1 jemartti jemarttinen  6107 2012-01-31 20:27 image.cpp
+17089885 -rw-r----- 1 jemartti jemarttinen   966 2012-01-31 20:27 polyroots.hpp
+29087561 -rw-r----- 1 jemartti jemarttinen 47477 2012-01-31 20:27 polyroots.cpp
+
+A4                                      
+A4/data                                 
+A4/data/buckyball.lua                   10689     5
+A4/data/cow.obj                         57991   176
+A4/data/cylinder.lua                    01173     1
+A4/data/dodeca.lua                      50755     2
+A4/data/hier.lua                        09954     3
+A4/data/icosa.lua                       58132     1
+A4/data/instance.lua                    25944     2
+A4/data/macho-cows.lua                  09303     3
+A4/data/mickey.lua                      01039    38
+A4/data/nonhier2.lua                    25636     2
+A4/data/nonhier.lua                     03278     2
+A4/data/nonhier.png                     37002    21
+A4/data/readobj.lua                     57040     2
+A4/data/sample.lua                      09382     1
+A4/data/sample.png                      49681    22
+A4/data/simple-cows.lua                 10797     3
+A4/data/simple-cows.png                 08646    15
+A4/data/simple.lua                      02633     1
+A4/data/smstdodeca.lua                  02544     9
+A4/README~                              26140     1
+A4/README                               46633     1
+A4/rt                                   14577   559
+A4/screenshot01.png                     05403    60
+A4/src                                  
+A4/src/a4.cpp                           36863     5
+A4/src/a4.hpp                           64323     1
+A4/src/algebra.cpp                      00294     4
+A4/src/algebra.hpp                      63736    10
+A4/src/image.cpp                        42618     6
+A4/src/image.hpp                        52703     2
+A4/src/light.cpp                        33451     1
+A4/src/light.hpp                        60541     1
+A4/src/lua488.hpp                       04702     1
+A4/src/main.cpp                         63227     1
+A4/src/Makefile                         41060     1
+A4/src/material.cpp                     32853     1
+A4/src/material.hpp                     39170     1
+A4/src/mesh.cpp                         29293     3
+A4/src/mesh.hpp                         14757     1
+A4/src/polyroots.cpp                    13141    47
+A4/src/polyroots.hpp                    52382     1
+A4/src/primitive.cpp                    48861     5
+A4/src/primitive.hpp                    23586     2
+A4/src/ray.cpp                          15607     2
+A4/src/ray.hpp                          15092     2
+
+
+2012-03-09 02:12 Checksum for A4 for jemartti on gl15.student.cs  Page 3
+
+A4/src/scene.cpp                        30231     6
+A4/src/scene.hpp                        21513     3
+A4/src/scene_lua.cpp                    34902    16
+A4/src/scene_lua.hpp                    16295     1
+
